@@ -58,6 +58,11 @@
 			path = SettingScreenUITests;
 			sourceTree = "<group>";
 		};
+		9AFBBEE62FD8EE5B00612E31 /* NetWorkManger */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = NetWorkManger;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +93,7 @@
 		9A8E33102FCDEF8D00F2F655 = {
 			isa = PBXGroup;
 			children = (
+				9AFBBEE62FD8EE5B00612E31 /* NetWorkManger */,
 				9A8E331B2FCDEF8D00F2F655 /* SettingScreen */,
 				9A8E33322FCDEF8D00F2F655 /* SettingScreenTests */,
 				9A8E333C2FCDEF8D00F2F655 /* SettingScreenUITests */,
@@ -122,6 +128,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				9A8E331B2FCDEF8D00F2F655 /* SettingScreen */,
+				9AFBBEE62FD8EE5B00612E31 /* NetWorkManger */,
 			);
 			name = SettingScreen;
 			packageProductDependencies = (

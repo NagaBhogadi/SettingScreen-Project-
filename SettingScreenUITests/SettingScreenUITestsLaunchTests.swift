@@ -7,6 +7,7 @@
 
 import XCTest
 
+
 final class SettingScreenUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
