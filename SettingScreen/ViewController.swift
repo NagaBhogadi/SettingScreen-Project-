@@ -27,6 +27,7 @@ class ViewController: UIViewController {
 
         fetchSettingData()
     }
+    // Mock Data
     func fetchSettingData() {
         if isInternetAvailable{
             objNetworkManager = NetworkManager.sharedInstance
