@@ -82,8 +82,6 @@ extension ViewController: UITableViewDataSource, UITableViewDelegate {
         cell.accessoryType = .disclosureIndicator
         cell.selectionStyle = .none
         
-//        I added test Data
-
         return cell
     }
 }
