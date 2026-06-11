@@ -14,6 +14,8 @@ class HeaderCell: UITableViewCell {
     @IBOutlet weak var headerImage: UIImageView!
     @IBOutlet weak var titleLabel: UILabel!
     @IBOutlet weak var descriptionLabel: UILabel!
+    
+    //add dummy branch
 
 }
 
